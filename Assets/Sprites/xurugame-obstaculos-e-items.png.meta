@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 221b7d60f8439344ba5a9bee74a1f59a
+timeCreated: 1462982155
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xurugame-obstaculos-e-items_0
+    21300002: xurugame-obstaculos-e-items_3
+    21300004: xurugame-obstaculos-e-items_4
+    21300006: xurugame-obstaculos-e-items_5
+    21300008: xurugame-obstaculos-e-items_6
+    21300010: xurugame-obstaculos-e-items_7
+    21300012: xurugame-obstaculos-e-items_8
+    21300014: xurugame-obstaculos-e-items_9
+    21300016: xurugame-obstaculos-e-items_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: xurugame-obstaculos-e-items_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 913
+        width: 959
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 479.5, y: -31.5}
+        - {x: 479.5, y: 26.5}
+        - {x: 474.5, y: 31.5}
+        - {x: 458.5, y: 32.5}
+        - {x: -479.5, y: 32.5}
+        - {x: -479.5, y: -32.5}
+        - {x: 478.5, y: -32.5}
+    - name: xurugame-obstaculos-e-items_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 773
+        width: 640
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 320, y: 27.5}
+        - {x: 315, y: 31.5}
+        - {x: 304, y: 32.5}
+        - {x: -320, y: 32.5}
+        - {x: -320, y: -29.5}
+        - {x: -316, y: -32.5}
+        - {x: 320, y: -32.5}
+    - name: xurugame-obstaculos-e-items_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 647
+        width: 219
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 32}
+        - {x: -109.5, y: 31}
+        - {x: -109.5, y: -32}
+        - {x: 109.5, y: -32}
+        - {x: 109.5, y: 30}
+        - {x: 105.5, y: 32}
+    - name: xurugame-obstaculos-e-items_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 314
+        width: 274
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: 47.5}
+        - {x: -107, y: 47.5}
+        - {x: -119, y: 43.5}
+        - {x: -137, y: 27.5}
+        - {x: -137, y: -32.5}
+        - {x: -112, y: -47.5}
+        - {x: 110, y: -47.5}
+        - {x: 131, y: -34.5}
+        - {x: 137, y: -27.5}
+        - {x: 137, y: 24.5}
+    - name: xurugame-obstaculos-e-items_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 273
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.5, y: 43.5}
+        - {x: -136.5, y: 16.5}
+        - {x: -135.5, y: 11.5}
+        - {x: -136.5, y: -9.5}
+        - {x: -136.5, y: -43.5}
+        - {x: 136.5, y: -43.5}
+        - {x: 136.5, y: 43.5}
+    - name: xurugame-obstaculos-e-items_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 149
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: xurugame-obstaculos-e-items_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 83
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.5, y: -11}
+        - {x: 50.5, y: 58}
+        - {x: -37.5, y: 58}
+        - {x: -58.5, y: 40}
+        - {x: -58.5, y: 18}
+        - {x: -54.5, y: 6}
+        - {x: 46.5, y: -58}
+        - {x: 58.5, y: -58}
+        - {x: 58.5, y: -38}
+        - {x: 57.5, y: -32}
+    - name: xurugame-obstaculos-e-items_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 63
+        width: 171
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.5, y: -76}
+        - {x: -74.5, y: -88}
+        - {x: 85.5, y: -88}
+        - {x: 85.5, y: -49}
+        - {x: 1.5, y: 88}
+        - {x: -83.5, y: 88}
+        - {x: -85.5, y: 80}
+    - name: xurugame-obstaculos-e-items_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 85
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 31.5}
+        - {x: -37, y: 30.5}
+        - {x: -46, y: -0.5}
+        - {x: -46, y: -21.5}
+        - {x: -34, y: -31.5}
+        - {x: 46, y: -31.5}
+        - {x: 46, y: 19.5}
+        - {x: 34, y: 31.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

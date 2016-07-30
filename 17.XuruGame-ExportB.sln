@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.XuruGame-ExportB.CSharp", "17.XuruGame-ExportB.CSharp.csproj", "{654F16D3-B328-C5CC-3607-48C6A0B28263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.XuruGame-ExportB.CSharp.Editor", "17.XuruGame-ExportB.CSharp.Editor.csproj", "{42E9FD53-D02E-62CD-CDCD-342DC81E63C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654F16D3-B328-C5CC-3607-48C6A0B28263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654F16D3-B328-C5CC-3607-48C6A0B28263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654F16D3-B328-C5CC-3607-48C6A0B28263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654F16D3-B328-C5CC-3607-48C6A0B28263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E9FD53-D02E-62CD-CDCD-342DC81E63C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E9FD53-D02E-62CD-CDCD-342DC81E63C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E9FD53-D02E-62CD-CDCD-342DC81E63C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E9FD53-D02E-62CD-CDCD-342DC81E63C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
